@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "name": "Ali Rezaei",
+    "score": 95.5,
+    "is_active": true,
+    "terminated_at": null,
+    "created_at": "2024-01-01T10:00:00",
+    "skills": ["C#", "SQL"],
+    "level1_corp": {
+      "level2_region": {
+        "level3_divisions": [
+          {
+            "div_name": "Software",
+            "level4_ops": {
+              "level5_squads": [
+                {
+                  "squad_name": "Backend",
+                  "level6_info": {
+                    "level7_projects": [
+                      {
+                        "proj_code": "PRJ-01",
+                        "level8_lookup": { "status": "Active", "priority": 1 }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "Sara Yilmaz",
+    "score": 88.0,
+    "is_active": true,
+    "terminated_at": null,
+    "created_at": "2024-02-15T11:30:00",
+    "skills": ["Python", "AWS"],
+    "level1_corp": {
+      "level2_region": {
+        "level3_divisions": [
+          {
+            "div_name": "Data Science",
+            "level4_ops": {
+              "level5_squads": [
+                {
+                  "squad_name": "AI Models",
+                  "level6_info": {
+                    "level7_projects": [
+                      {
+                        "proj_code": "PRJ-02",
+                        "level8_lookup": { "status": "Active", "priority": 2 }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "Hani Ashrafi",
+    "score": 99.9,
+    "is_active": true,
+    "terminated_at": null,
+    "created_at": "2023-09-20T08:00:00",
+    "skills": ["C++", "Rust", "Go"],
+    "level1_corp": {
+      "level2_region": {
+        "level3_divisions": [
+          {
+            "div_name": "Systems",
+            "level4_ops": {
+              "level5_squads": [
+                {
+                  "squad_name": "Core Engine",
+                  "level6_info": {
+                    "level7_projects": [
+                      {
+                        "proj_code": "PRJ-03",
+                        "level8_lookup": { "status": "Review", "priority": 3 }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "Zeynep Kaya",
+    "score": 75.2,
+    "is_active": false,
+    "terminated_at": "2025-10-01T17:00:00",
+    "created_at": "2022-03-10T09:15:00",
+    "skills": ["HTML", "CSS"],
+    "level1_corp": {
+      "level2_region": {
+        "level3_divisions": [
+          {
+            "div_name": "Frontend",
+            "level4_ops": {
+              "level5_squads": [
+                {
+                  "squad_name": "UI/UX",
+                  "level6_info": {
+                    "level7_projects": [
+                      {
+                        "proj_code": "PRJ-04",
+                        "level8_lookup": { "status": "Closed", "priority": 4 }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 5,
+    "name": "Hacker'; DROP TABLE Users;--",
+    "score": 12.0,
+    "is_active": false,
+    "terminated_at": "2021-01-01T00:00:00",
+    "created_at": "2020-05-05T05:05:05",
+    "skills": ["Injection", "XSS"],
+    "level1_corp": {
+      "level2_region": {
+        "level3_divisions": [
+          {
+            "div_name": "Security",
+            "level4_ops": {
+              "level5_squads": [
+                {
+                  "squad_name": "Red Team",
+                  "level6_info": {
+                    "level7_projects": [
+                      {
+                        "proj_code": "PRJ-05",
+                        "level8_lookup": { "status": "Pending", "priority": 5 }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+]
